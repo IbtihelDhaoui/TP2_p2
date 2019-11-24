@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP2p2</string>
+    <string name="button_label_count">button_label_count</string>
+    <string name="label_say_hello">label_say_hello</string>
+    <string name="count_initial_value">count_initial_value</string>
+    <string name="label_hello">label_hello</string>
+</resources>
